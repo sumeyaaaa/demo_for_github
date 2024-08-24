@@ -1,2 +1,2 @@
 # demo_for_github
-just a sample to try.
+just a sample to try!
